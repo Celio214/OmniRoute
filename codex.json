@@ -3,8 +3,8 @@
   "id": "omniroute-fork",
   "name": "OmniRoute (Mon Fork)",
   "version": "1.0.0",
-  "description": "Routage multi-API synchronisé depuis mon fork.",
+  "description": "Routage d'API.",
   "icon": "🔀",
   "entrypoint": "index.js",
-  "capabilities": ["mcp-proxy"]
+  "capabilities": ["prompt-injection"]
 }
