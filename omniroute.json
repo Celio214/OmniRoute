@@ -1,0 +1,9 @@
+{
+  "manifestVersion": 1,
+  "id": "omniroute-local",
+  "name": "OmniRoute (Optimisé)",
+  "version": "1.0.0",
+  "description": "Routage d'API et gestion de charge de jetons.",
+  "icon": "🔀",
+  "capabilities": ["prompt-injection"]
+}
