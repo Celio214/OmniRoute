@@ -1,0 +1,10 @@
+{
+  "manifestVersion": 1,
+  "id": "omniroute-fork",
+  "name": "OmniRoute (Mon Fork)",
+  "version": "1.0.0",
+  "description": "Routage multi-API synchronisé depuis mon fork.",
+  "icon": "🔀",
+  "entrypoint": "index.js",
+  "capabilities": ["mcp-proxy"]
+}
